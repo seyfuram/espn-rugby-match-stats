@@ -1,1 +1,4 @@
-# espn-rugby-match-stats
+# ESPN Rugby Match Stats scraper
+
+* startdate.txt and enddate.txt must be changed
+* Leagues: Northern, nternational, Super
